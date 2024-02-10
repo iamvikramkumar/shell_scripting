@@ -5,6 +5,7 @@
       bash 5_loop.sh
 
 # For  Creating file of Shell Scripting In Linux Terminal
+
       NANO [File Name]
       After Writing, For Save the Code in NANO EDITOR: 
       -> PRESS CTRL + O then Enter
