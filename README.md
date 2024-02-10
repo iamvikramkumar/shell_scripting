@@ -5,7 +5,22 @@
       bash 5_loop.sh
 
 # For  Creating file of Shell Scripting In Linux Terminal
-      NANO [File Name] 
+      NANO [File Name]
+      After Writing, For Save the Code in NANO EDITOR: 
+      -> PRESS CTRL + O then Enter
+      For Quit From NANO Terminal
+      -> PRESS CTRL + X
+      For Run The Code
+      -> ./filename.sh or sh filename.sh
+
+      Vim / Vi  [File Name]
+      For Writing the code in Vi Editor 
+      -> Press Esc button and I button or only I button 
+      After Writing, For Save The Code
+      -> Press Esc button then colon with wq! [:wq!] then Enter
+      For Run The Code
+      -> ./filename.sh or sh filename.sh
+
 
 # For Running file of Shell Scripting in Linux Terminal
       ./File Name.sh
