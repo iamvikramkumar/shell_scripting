@@ -24,8 +24,8 @@
 
 
 # For Running file of Shell Scripting in Linux Terminal
-      ./File Name.sh
-      ./5_loop.sh
+      ./filename.sh or sh filename.sh
+      ./5_loop.sh or sh 5_loop.sh
 ![Screenshot (648)](https://github.com/iamvikramkumar/shell_scripting/assets/89016145/92a823a7-f499-418b-8e5c-8056a05fd8a2)
 
 ![Screenshot (649)](https://github.com/iamvikramkumar/shell_scripting/assets/89016145/32f3cde1-e179-401a-8e04-4ecd4a6315db)
