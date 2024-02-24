@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# for i in {1..100}
+# do echo "$i"
+# done
+
 for((i=0; i < 10; i++))
 do
 echo "$i"
@@ -15,7 +19,7 @@ done
 
 
 # Below code only gives text files
-for FILE in *.txt
-do 
-echo  $FILE
-done
+# for FILE in *.txt
+# do 
+# echo  $FILE
+# done
