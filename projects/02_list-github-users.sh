@@ -8,8 +8,7 @@
 # Description: This script lists the collaborators of a specified GitHub repository
 # and their respective permissions (read, write, admin). Useful for auditing access
 # control and permissions for your repositories.
-########
-
+#######
 
 
 # GitHub API URL
