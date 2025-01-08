@@ -4,7 +4,7 @@
 # Author : Vikram
 # Date : 07-01-25
 #
-# Description : Shell script to upload the Jenkins log files to S# Bucket
+# Description : Shell script to upload the Jenkins log files to S3 Bucket
 #
 # Version : v1
 ###########################
