@@ -1,5 +1,14 @@
 #!/bin/bash
 
+##########################
+# Author : Vikram
+# Date : 07-01-25
+#
+# Description : Shell script to upload the Jenkins log files to S# Bucket
+#
+# Version : v1
+###########################
+
 # Variables
 JENKINS_HOME="/var/lib/jenkins"  # Replace with your Jenkins home directory
 S3_BUCKET="s3://your-s3-bucket-name"  # Replace with your S3 bucket name
